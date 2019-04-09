@@ -33,6 +33,7 @@ bin/
 # Eclipse project files
 .classpath
 .project
+.editorconfig
 
 # Vertx cache
 .vertx/
